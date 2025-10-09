@@ -43,11 +43,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taufiqurrahman10/taufiqurrahman10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taufiqurrahman10/taufiqurrahman10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taufiqurrahman10/taufiqurrahman10/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Taufiqurrahman10/Taufiqurrahman10/output/github-contribution-grid-snake-wave.svg" alt="Contribution Wave Animation" />
+</div>
+
 
 
 ###
