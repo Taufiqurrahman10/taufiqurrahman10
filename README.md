@@ -5,14 +5,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taufiqurrahman10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taufiqurrahman10&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taufiqurrahman10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Animated GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVxMHowM3BkaTl5c3RsZ3R6d2M3amh3bmVlazdiczA3anl1YTF0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" height="150" alt="Animated GIF" />
 </div>
 
 ---
