@@ -5,10 +5,6 @@
 ---
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVxMHowM3BkaTl5c3RsZ3R6d2M3amh3bmVlazdiczA3anl1YTF0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" height="150" alt="Animated GIF" />
-</div>
-
----
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
