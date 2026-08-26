@@ -4,18 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=6B7280&vCenter=true&width=460&lines=Building+with+Laravel+%26+Flutter;Supabase+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL" alt="Laravel, Flutter, Supabase, MySQL, and PostgreSQL" />
 
-Saya berfokus membangun aplikasi web dan mobile yang fungsional, mudah digunakan, dan memiliki struktur yang baik.
-
-- Mengembangkan aplikasi web dengan **Laravel**
-- Membangun aplikasi lintas platform menggunakan **Flutter**
-- Mengelola autentikasi, backend, dan data dengan **Supabase**
-- Menggunakan **MySQL** dan **PostgreSQL** untuk database relasional
+Web & Mobile Developer.
 
 <br clear="right" />
 
 ## Fokus Stack
-
-**Stack utama**
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -25,7 +18,7 @@ Saya berfokus membangun aplikasi web dan mobile yang fungsional, mudah digunakan
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Bahasa dan tools pendukung**
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -37,12 +30,12 @@ Saya berfokus membangun aplikasi web dan mobile yang fungsional, mudah digunakan
 
 ## Proyek Pilihan
 
-| Proyek | Deskripsi | Stack |
-| --- | --- | --- |
-| [Dashboard Cat Disease](https://github.com/Taufiqurrahman10/dashboard_cat_disease) | Dashboard untuk mengelola informasi penyakit pada kucing. | Laravel, Blade |
-| [Flutter Kepegawaian](https://github.com/Taufiqurrahman10/flutter_kepegawaian) | Aplikasi mobile untuk pengelolaan data kepegawaian. | Flutter, Dart |
-| [Flutter E-commerce](https://github.com/Taufiqurrahman10/latihan_flutter_ecommerce) | Eksplorasi antarmuka dan alur aplikasi e-commerce. | Flutter, Dart |
-| [Aplikasi Perpustakaan](https://github.com/Taufiqurrahman10/uas-topik-khusus-perpustakaan) | Aplikasi perpustakaan dengan proses deployment berbasis container. | Vue, Docker |
+| Proyek | Stack |
+| --- | --- |
+| [Dashboard Cat Disease](https://github.com/Taufiqurrahman10/dashboard_cat_disease) | Laravel, Blade |
+| [Flutter Kepegawaian](https://github.com/Taufiqurrahman10/flutter_kepegawaian) | Flutter, Dart |
+| [Flutter E-commerce](https://github.com/Taufiqurrahman10/latihan_flutter_ecommerce) | Flutter, Dart |
+| [Aplikasi Perpustakaan](https://github.com/Taufiqurrahman10/uas-topik-khusus-perpustakaan) | Vue, Docker |
 
 ## Aktivitas GitHub
 
@@ -51,8 +44,6 @@ Saya berfokus membangun aplikasi web dan mobile yang fungsional, mudah digunakan
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taufiqurrahman10&theme=github_dark" alt="Statistik GitHub Taufiqurrahman" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taufiqurrahman10&theme=github_dark" alt="Bahasa yang paling sering digunakan Taufiqurrahman" />
 
 ## Kontak
-
-Saya terbuka untuk berdiskusi, bertukar ide, dan berkolaborasi dalam sebuah proyek.
 
 <a href="https://github.com/Taufiqurrahman10">
   <img src="https://img.shields.io/badge/GitHub-Taufiqurrahman10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Taufiqurrahman10" />
