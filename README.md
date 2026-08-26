@@ -1,4 +1,6 @@
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" alt="Coding animation" />
+<a href="https://giphy.com/gifs/ussewa-adomination-jpop-singer-mRsury9NwHaOeD5QyA">
+  <img align="right" width="230" src="https://media2.giphy.com/media/mRsury9NwHaOeD5QyA/giphy.gif" alt="Ado animated sticker" />
+</a>
 
 # Taufiqurrahman
 
