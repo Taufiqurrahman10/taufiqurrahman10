@@ -1,8 +1,8 @@
-<a href="https://giphy.com/gifs/ussewa-adomination-jpop-singer-mRsury9NwHaOeD5QyA">
-  <img align="right" width="230" src="https://media2.giphy.com/media/mRsury9NwHaOeD5QyA/giphy.gif" alt="Ado animated sticker" />
-</a>
-
 # Taufiqurrahman
+
+<a href="https://giphy.com/gifs/ussewa-adomination-jpop-singer-mRsury9NwHaOeD5QyA">
+  <img align="right" width="175" src="https://media2.giphy.com/media/mRsury9NwHaOeD5QyA/giphy.gif" alt="Ado animated sticker" />
+</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=6B7280&vCenter=true&width=460&lines=Building+with+Laravel+%26+Flutter;Supabase+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL" alt="Laravel, Flutter, Supabase, MySQL, and PostgreSQL" />
 
